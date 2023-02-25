@@ -45,7 +45,6 @@ while(iniciar == "s"){
       break;
 
     case "3":
-      debugger
       console.log(listaDeCompras);
       categoria = prompt("Digite a categoria. bebida, fruta, verdura, carnes, limpeza, frios, laticinios, congelados, padaria, higiene.");
       produto = prompt("Digite o nome do produto/item que você deseja remover da lista de compras");
